@@ -20,13 +20,7 @@
         <br />
         of already added channel Please send us a Message to linkedin
         <br />
-        <a
-          href="https://www.linkedin.com/in/aagam-shah-177968170/"
-          style="color: skyblue"
-          target="_blank"
-        >
-          @aagam_shah_1410.
-        </a>
+     
       </p>
       <br />
       <h2>Attribution for Open Source Illustrations</h2>
@@ -38,20 +32,7 @@
       <br />
       <section class="data1">
         <article class="data11">
-          <a
-            id="link"
-            href="https://www.linkedin.com/in/aagam-shah-177968170/"
-            target="_blank"
-          >
-            <div class="img">
-              <img src="developer.jpg" />
-            </div>
-            <div class="channelName">
-              <p>
-                <b> Aagam Shah </b>
-              </p>
-            </div>
-          </a>
+        
           <p>Student @ SCET,SURAT</p>
         </article>
       </section>
